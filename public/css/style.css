@@ -1,0 +1,12 @@
+.bg-header {background: rgb(80,177,236); background: linear-gradient(135deg, rgba(80,177,236,1) 0%, rgba(18,56,127,1) 35%, rgba(94,47,119,1) 70%, rgba(99,21,71,1) 100%);}
+.bg-purple {background: #631547;}
+.a-video {filter: grayscale(1); transition: .5s ease-in}
+.a-video:hover {filter: grayscale(0)}
+.z2 {z-index: 2;}
+.t-p {background: #503178; padding: 5px 10px;}
+.t-s {background: #fff; color: #000; padding: 15px 20px;}
+
+.aa_txt{font-size:36px;font-weight:100;text-align:center;text-transform:uppercase;color:#594379;}
+.aa_title{background:#fff;padding:.5rem;}
+.aa_hh{color:#fff;background:#654791;padding:2rem;}
+.aa_desc{color:#fff;font-size:16px;text-transform:none;}
