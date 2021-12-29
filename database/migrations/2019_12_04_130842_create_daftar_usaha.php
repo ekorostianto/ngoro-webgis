@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Migrations\Migration;
-use Phaza\LaravelPostgis\Schema\Blueprint;
+use MStaack\LaravelPostgis\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
 class CreateDaftarUsaha extends Migration
